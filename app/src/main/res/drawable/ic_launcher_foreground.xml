@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Target rails -->
+    <path
+        android:fillColor="#B5583A"
+        android:pathData="M38,31h32v3h-32z M38,74h32v3h-32z" />
+    <path
+        android:fillColor="#1D6F7A"
+        android:pathData="M31,38h3v32h-3z M74,38h3v32h-3z" />
+    <!-- Diagonal connectors -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M44,44L54,54L64,64"
+        android:strokeWidth="2.4"
+        android:strokeColor="#E0976D"
+        android:strokeLineCap="round" />
+    <!-- Copper diamonds -->
+    <path
+        android:fillColor="#C8683F"
+        android:pathData="M44,38.5L49.5,44L44,49.5L38.5,44z M54,48.5L59.5,54L54,59.5L48.5,54z M64,58.5L69.5,64L64,69.5L58.5,64z" />
+    <!-- Teal circles -->
+    <path
+        android:fillColor="#237D84"
+        android:pathData="M64,39m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0 M44,69m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+</vector>
